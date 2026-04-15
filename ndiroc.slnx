@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ndiroc/ndiroc.vcxproj" Id="399129f2-2169-462d-8f1e-040ae49a751f" />
+</Solution>
