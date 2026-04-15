@@ -9,3 +9,9 @@ int main() {
 	printf("hello mohammedSSSSsqsqSS first second chansge");
 	printf("hello mohammedSSSSsqsqSS first second change");
 } 
+void{
+
+
+	ezezz<z
+	szedsde<esd
+}
